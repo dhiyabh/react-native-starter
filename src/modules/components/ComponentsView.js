@@ -13,7 +13,7 @@ export default function ComponentsScreen(props) {
       contentContainerStyle={{ paddingBottom: 20 }}
     >
       <View style={styles.componentsSection}>
-        <Text style={styles.componentSectionHeader}>R adio Group</Text>
+        <Text style={styles.componentSectionHeader}>Radio Group</Text>
 
         <RadioGroup
           style={styles.demoItem}
